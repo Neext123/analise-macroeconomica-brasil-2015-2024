@@ -3,6 +3,7 @@
 Relatório Macroeconômico do Brasil (2015–2024)
 
 ---
+Este relatório apresenta uma análise abrangente da economia brasileira entre 2015 e 2024, período marcado por recessão profunda, crise fiscal, pandemia, inflação elevada, ciclos agressivos de juros e posterior recuperação. O objetivo é compreender como os principais indicadores macroeconômicos — inflação, juros, câmbio, PIB e desemprego — evoluíram ao longo da década e como políticas monetária e fiscal influenciaram esses movimentos.
 
 1. Introdução
 
@@ -197,6 +198,8 @@ Debates sobre sustentabilidade fiscal, arcabouço fiscal e trajetória da dívid
 ---
 
 9. Conclusão
+
+   A análise integrada dos indicadores mostra que a economia brasileira passou por um ciclo completo de deterioração, estabilização, choque externo e recuperação. A inflação e os juros caminharam em sincronia, o câmbio refletiu risco e incerteza, o PIB respondeu a choques internos e externos, e o mercado de trabalho reagiu com atraso, mas de forma consistente. O período deixa lições importantes sobre a necessidade de responsabilidade fiscal, credibilidade monetária e previsibilidade institucional.
 
 Entre 2015 e 2024, o Brasil viveu:
 
