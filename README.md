@@ -1,6 +1,6 @@
 # analise-macroeconomica-brasil-2015-2024
 
-Relatório Macroeconômico do Brasil (2015–2024)
+Análise Macroeconômica do Brasil (2015–2024)
 
 ---
 Este relatório apresenta uma análise abrangente da economia brasileira entre 2015 e 2024, período marcado por recessão profunda, crise fiscal, pandemia, inflação elevada, ciclos agressivos de juros e posterior recuperação. O objetivo é compreender como os principais indicadores macroeconômicos — inflação, juros, câmbio, PIB e desemprego — evoluíram ao longo da década e como políticas monetária e fiscal influenciaram esses movimentos.
@@ -228,3 +228,23 @@ Este período deixa lições importantes sobre a importância de:
 • política monetária firme
 • comunicação clara
 • previsibilidade institucional
+
+
+
+
+
+## Referências
+
+- Banco Central do Brasil (BCB)
+- Instituto Brasileiro de Geografia e Estatística (IBGE)
+- Instituto de Pesquisa Econômica Aplicada (IPEA)
+- Fundo Monetário Internacional (FMI)
+- Trading Economics
+- Relatórios Focus (BCB)
+- Relatórios de Inflação (BCB)
+
+- ## Metodologia
+
+A análise foi realizada com base em dados públicos disponibilizados por órgãos oficiais como BCB, IBGE e IPEA. A interpretação dos indicadores segue a literatura padrão de macroeconomia, com foco em ciclos econômicos, política monetária, política fiscal e dinâmica do mercado de trabalho.
+
+
